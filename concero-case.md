@@ -5,6 +5,9 @@ date: "2025-08-13"
 reading_time: "4 min read"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/concero.webp"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/leo.jpg"
+description: "Next-generation modular cross-chain messaging protocol designed to unite blockchains through a single, decentralized data transmission layer. "
+tags: ["genesis", "media", "multichain", "infrastructure", "web3", "rpc"]
+
 ---
 
 # Launching and Powering Infrastructure at Concero and Lanca: Logic & Verified Data
