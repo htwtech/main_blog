@@ -6,6 +6,8 @@ date: "2025-10-09"
 reading_time: "3 min read"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/midl.webp"
 description: "Midl is a Bitcoin-native abstraction layer designed to enable smart contract execution directly on Bitcoin without wrapped assets or external bridges.  "
+tags: ["midl", "media", "bitcoin", "infrastructure", "web3", "analytics"]
+
 ---
 
 # Midl × HighTower: Supporting Bitcoin Abstraction Infrastructure
