@@ -6,6 +6,8 @@ reading_time: "3 min read"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/bob.webp"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/leo.jpg"
 description: "BOB (Build on Bitcoin) is an EVM-compatible Bitcoin Layer-2 designed to unlock native Bitcoin DeFi by enabling smart contracts secured by BTC. "
+tags: ["bob", "validators", "staking", "infrastructure", "web3", "analytics"]
+
 ---
 
 # HighTower × BOB: A Case Study in Strategic Community Partnership
