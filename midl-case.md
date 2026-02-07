@@ -5,6 +5,7 @@ authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/
 date: "2025-10-09"
 reading_time: "3 min read"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/midl.webp"
+description: "Midl is a Bitcoin-native abstraction layer designed to enable smart contract execution directly on Bitcoin without wrapped assets or external bridges. By introducing an EVM-like execution environment while preserving full BTC wallet nativity, Midl allows users to interact with DeFi, SocialFi, GameFi, and other decentralized applications without moving funds off-chain. "
 ---
 
 # Midl × HighTower: Supporting Bitcoin Abstraction Infrastructure
