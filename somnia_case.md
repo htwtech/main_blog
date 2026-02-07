@@ -3,7 +3,7 @@ title: "From Genesis Validator to Ecosystem Infrastructure: Building Somnia.info
 slug: "somnia-validator-infrastructure-case"
 date: "2026-02-07"
 description: "How running a genesis validator and building Somnia.info turned HighTower into a trusted infrastructure partner within the Somnia ecosystem."
-author: "HighTower"
+author: "Leo HighTower"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/leo.jpg"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/somnia_case.webp"
 coverAlt: "Somnia validator infrastructure case study"
