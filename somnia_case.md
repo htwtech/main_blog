@@ -4,7 +4,7 @@ slug: "somnia-validator-infrastructure-case"
 date: "2026-02-07"
 description: "How running a genesis validator and building Somnia.info turned HighTower into a trusted infrastructure partner within the Somnia ecosystem."
 author: "HighTower"
-authorImage: "https://avatars.githubusercontent.com/u/0](https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/leo.jpg"
+authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/leo.jpg"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/somnia_case.webp"
 coverAlt: "Somnia validator infrastructure case study"
 tags: ["somnia", "validators", "staking", "infrastructure", "web3", "analytics"]
