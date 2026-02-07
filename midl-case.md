@@ -1,10 +1,10 @@
 ---
 title: "Midl × HighTower: Supporting Bitcoin Abstraction Infrastructure"
-author: "Katrin, HighTower"
+author: "Katrin HighTower"
+authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/Katrin.jpg"
 date: "2025-10-09"
 reading_time: "3 min read"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/midl.webp"
-authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/katrin.jpg"
 ---
 
 # Midl × HighTower: Supporting Bitcoin Abstraction Infrastructure
