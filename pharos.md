@@ -1,14 +1,21 @@
 ---
+title: "HighTower × BOB: A Case Study in Strategic Community Partnership"
+author: "Leo, HighTower"
+date: "2025-09-23"
+reading_time: "3 min read"
+cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/bob.webp"
+authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/leo.jpg"
+description: "BOB (Build on Bitcoin) is an EVM-compatible Bitcoin Layer-2 designed to unlock native Bitcoin DeFi by enabling smart contracts secured by BTC. "
+
+
 title: "Asset Flow: From Capital to Consumption"
 author: "Leo Hightower"
+date: "2025-02-06"
+reading_time: "1 min read"
 authorImage: https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/logos/btcboard_solo_logo.svg
 cover: https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/pharos.jpeg
-decription: 
-tags:
-  #RealFi
-  #RWA
-  - Layer1
-  - On-chain Capital
+decription: Asset Flow describes how capital moves from real-world originators into on-chain markets and back into real economic usage. 
+tags: ["RealFi", "RWA", "staking", "infrastructure", "On-chain Capital", "analytics"]
 ---
 
 ## Asset Flow: From Capital to Consumption
