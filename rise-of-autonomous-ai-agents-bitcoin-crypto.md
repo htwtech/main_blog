@@ -1,3 +1,4 @@
+___
 title: "The Rise of Autonomous AI Agents: From Moltbook to Self-Funded Crypto Activity"
 slug: "rise-of-autonomous-ai-agents-bitcoin-crypto"
 date: "2026-02-13"
@@ -7,6 +8,7 @@ authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/aiJoinsBTC.png"
 coverAlt: "AI and Bitcoin integration concept"
 tags: ["bitcoin", "btc", "l2", "lightning", "ai", "btcfi", "crypto-infrastructure"]
+___
 The Rise of Autonomous AI Agents: From Moltbook to Self-Funded Crypto Activity
 February 13, 2026
 Autonomous AI agents are no longer lab curiosities. Over the past year we’ve been tracking the intersection of Bitcoin infrastructure, programmable payments, and automation — and in early 2026 something shifted in a way that felt structural, not cosmetic.
