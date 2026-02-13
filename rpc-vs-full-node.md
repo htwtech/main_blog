@@ -53,7 +53,7 @@ Key advantages:
 - Enable analytics dashboards, wallets, and DeFi tools to function at scale.
 - Provide pre-processed datasets, which reduce load on full nodes and RPC endpoints.
 
-![Indexer workflow diagram](PASTE_IMAGE_LINK_HERE)
+![Indexer workflow diagram]([url](https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/1_DeMwns4HM-E4dPn7_E91XQ.webp)
 
 <sub>Indexers transform raw blockchain node data into actionable insights for dApps.</sub>
 
