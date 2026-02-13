@@ -5,7 +5,7 @@ date: "2026-02-13"
 description: "Autonomous AI agents are now provisioning infrastructure and transacting via Bitcoin Lightning. This article examines what’s real, what’s overhyped, and what it means for crypto infrastructure."
 author: "Bitcoin Board"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/logos/btcboard_solo_logo.svg"
-cover: "PASTE_IMAGE_LINK_HERE"
+cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/aiJoinsBTC.png"
 coverAlt: "AI and Bitcoin integration concept"
 tags: ["bitcoin", "btc", "l2", "lightning", "ai", "btcfi", "crypto-infrastructure"]
 ---
