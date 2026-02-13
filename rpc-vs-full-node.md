@@ -5,7 +5,7 @@ date: "2026-02-14"
 description: "Understanding how RPC endpoints, full nodes, and indexers differ in blockchain infrastructure, and what each brings to builders and traders."
 author: "HighTower Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
-cover: "PASTE_IMAGE_LINK_HERE"
+cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/rpcVsnodeVsindex.png"
 coverAlt: "Blockchain node infrastructure illustration"
 tags: ["full-node", "rpc", "indexer", "crypto-infrastructure", "education"]
 ---
