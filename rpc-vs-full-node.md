@@ -7,7 +7,7 @@ author: "HighTower Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
 cover: "PASTE_IMAGE_LINK_HERE"
 coverAlt: "Blockchain node infrastructure illustration"
-tags: ["full-node", "rpc", "indexer", "crypto-infrastructure"]
+tags: ["full-node", "rpc", "indexer", "crypto-infrastructure", "education"]
 ---
 
 When we talk about blockchain infrastructure, terms like RPC, full node, and indexer get tossed around a lot. But if you’ve been building on Bitcoin L2s, Lightning, or even tracking BTCFi activity, you know these aren’t interchangeable. Over the past year, we’ve run validators, indexed transactions, and built tooling on top of nodes — and the distinction matters more than most tutorials let on.
