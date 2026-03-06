@@ -1,7 +1,7 @@
 ---
 title: "What Is Monad Execution Events Gateway?"
 slug: "what-is-monad-execution-events-gateway"
-date: "2026-02-24"
+date: "2026-03-06"
 description: "Real-time execution event streaming for the Monad blockchain — beyond what JSON-RPC can offer."
 author: "HighTower"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
