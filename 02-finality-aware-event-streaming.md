@@ -5,7 +5,7 @@ date: "2026-03-01"
 description: "Stop processing events that might get rolled back. Use consensus stage gating to receive only finalized events."
 author: "HighTower"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
+cover: "https://pbs.twimg.com/media/HCwJicRWkAABAI8.jpg"
 coverAlt: "Monad Finality-Aware Streaming"
 tags: ["monad", "streaming", "finality", "infrastructure"]
 ---
