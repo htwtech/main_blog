@@ -5,7 +5,7 @@ date: "2026-02-24"
 description: "Build a real-time view of Monad staking activity — delegate flows, reward distributions, and validator performance."
 author: "HighTower"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
+cover: "https://pbs.twimg.com/media/HCwK9seaUAEJWCf.jpg"
 coverAlt: "Monad Staking Analytics"
 tags: ["monad", "staking", "analytics", "gateway"]
 ---
