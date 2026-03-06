@@ -5,7 +5,7 @@ date: "2026-03-06"
 description: "Real-time execution event streaming for the Monad blockchain — beyond what JSON-RPC can offer."
 author: "HighTower"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
+cover: "https://pbs.twimg.com/media/HCwJRS-XwAAdt3J.jpg"
 coverAlt: "Monad Execution Events Gateway"
 tags: ["monad", "rpc", "infrastructure", "gateway"]
 ---
