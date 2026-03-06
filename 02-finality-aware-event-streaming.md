@@ -1,7 +1,7 @@
 ---
 title: "Finality-Aware Event Streaming: How min_stage Works"
 slug: "finality-aware-event-streaming-min-stage"
-date: "2026-03-07"
+date: "2026-03-01"
 description: "Stop processing events that might get rolled back. Use consensus stage gating to receive only finalized events."
 author: "HighTower"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
