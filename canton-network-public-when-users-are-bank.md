@@ -1,5 +1,5 @@
 ---
-title: "Canton Network: What \"Public\" Means When Your Users Are Banks"
+title: "Canton Network: What "Public" Means When Your Users Are Banks"
 slug: "canton-network-public-when-users-are-banks"
 date: "2026-03-10"
 description: "What Canton means by “public” when privacy, governed access, and institutional workflows stay non-negotiable constraints."
