@@ -1,7 +1,7 @@
 ---
 title: "What Comes After $1B TVL — Sonic’s Post-Bootstrap Phase, Explained"
 slug: "sonic-post-bootstrap-phase-explained"
-date: "2026-02-10"
+date: "2026-03-10"
 description: "How Sonic is moving from bootstrap growth to building a durable onchain economic system."
 author: "HighTower Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
