@@ -157,5 +157,5 @@ HighTower is a venture infrastructure platform focused on blockchain infrastruct
 We work closely with blockchain ecosystems, builders, and infrastructure-heavy applications to help teams launch and scale production-ready systems.
 
 - **Twitter:** [https://x.com/htwtech_](https://x.com/htwtech_)
-- **Telegram:** [https://t.me/htwtech_support](https://t.me/htwtech_support)
+- **Telegram:** [https://t.me/htwtech_connect_bot](https://t.me/htwtech_connect_bot)
 - **Medium:** [https://medium.com/@htwtech](https://medium.com/@htwtech)
