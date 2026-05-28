@@ -6,7 +6,7 @@ description: "Building for Pharos Agent Center Skill Builder Campaign? Selected 
 author: "HighTower"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
 cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/0x/pharos.png"
-coverAlt: "Get free Pharos infra for Frontier"
+coverAlt: "Get free Pharos infra for Agent Center Skill Builder"
 tags: ["Pharos", "hackathon", "infrastructure", "rpc", "mcp", "campaign"]
 ---
 # HighTower Joins the Pharos Agent Center Skill Builder Campaign
