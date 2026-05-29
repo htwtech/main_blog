@@ -72,8 +72,8 @@ The best projects may also receive participation in our **Builder Storytelling L
 
 To further support developers building during the campaign, HighTower will additionally provide:
 
+- **3 Cursor Pro+ accounts** (1 month)
 - **3 Claude Pro accounts** (1 month)
-- **5 Cursor Pro accounts**
 
 These rewards will be distributed to selected builders based on:
 
