@@ -1,4 +1,4 @@
---
+---
 title: 'Solana Sniper Bot Explained: Speed, Risks, RPC Latency, and Transaction Landing'
 slug: 'solana-sniper-bot-rpc-latency'
 canonical_url: 'https://supanode.xyz/blog/solana-sniper-bot-rpc-latency'
