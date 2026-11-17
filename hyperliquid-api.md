@@ -127,7 +127,7 @@ account_address = os.environ["HL_TESTNET_ACCOUNT_ADDRESS"].lower()
 exchange = Exchange(agent, TESTNET, account_address=account_address)
 info = Info(TESTNET, skip_ws=True)
 
-cloid = Cloid.from_int(uuid.uuid4().int >> 128)
+cloid = Cloid.from_int(uuid.uuid4().int)
 
 result = exchange.order(
     "ETH", True, 0.2, 1100, {"limit": {"tif": "Gtc"}}, cloid=cloid
